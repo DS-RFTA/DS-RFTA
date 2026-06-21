@@ -1,6 +1,5 @@
 
-  <img width="1584" height="396" alt="1" src="https://github.com/user-attachments/assets/ee72acd8-90de-466a-852a-13ac968cbbed" />
-
+![alt text](image.png)
 
 
 <h1 align="center"> Hello World, I'm Renata. Bem-vindo(a), 🚀</h1>
