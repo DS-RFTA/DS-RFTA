@@ -6,7 +6,7 @@ Hello World!!
 I'm Renata.🚀
 </h1>
 
-### “ É o único trabalho que me vem à mente no qual posso ser ao mesmo tempo engenheiro e artista. Existe um incrível e rigoroso elemento técnico em sua execução, que é algo que me agrada porque é preciso ter um raciocínio muito preciso. Por outro lado, apresenta um lado criativo no qual os limites da imaginação são a única restrição.” – Andy Hertzfeld 
+### “ É o único trabalho que me vem à mente no qual posso ser ao mesmo tempo engenheiro e artista. Existe um incrível e rigoroso elemento técnico em sua execução, que é algo que me agrada porque é preciso ter um raciocínio muito preciso. Por outro lado, apresenta um lado criativo no qual os limites da imaginação são a única restrição. ” – Andy Hertzfeld 
 
 
 
@@ -19,7 +19,8 @@ I'm Renata.🚀
 <p align="left">
 
 
-## 👩🏻‍💻  RENATA FÉLIX TRAJANO DE ARAÚJO - FULL STACK EM DADOS & ANALYTICS
+##   RENATA FÉLIX TRAJANO DE ARAÚJO 
+##     FULL STACK EM DADOS & ANALYTICS
 
 ### Engenharia de dados | Cientista de Dados | Analista de Dados | Business Intelligence | Cibersegurança | Expert DIO
      
