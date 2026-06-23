@@ -19,8 +19,10 @@ I'm Renata.🚀
 <p align="left">
 
 
-##   RENATA FÉLIX TRAJANO DE ARAÚJO 
-##     FULL STACK EM DADOS & ANALYTICS
+<div
+ align="center">RENATA FÉLIX TRAJANO DE ARAÚJO 
+<div
+ align="center">FULL STACK EM DADOS & ANALYTICS
 
 ### Engenharia de dados | Cientista de Dados | Analista de Dados | Business Intelligence | Cibersegurança | Expert DIO
      
