@@ -1,7 +1,8 @@
 <img width="1584" height="396" alt="Foto de Fundo para LinkedIn Corretora de Imóveis Corporativo Azul (1)" src="https://github.com/user-attachments/assets/d0930ef0-a26f-4a01-bc40-45432c575bcf" />
 
 
-<h1 align="center"> Hello World, I'm Renata. Bem-vindo(a), 🚀</h1>
+<h1 align="center">  Bem-vindo(a), 
+  Hello World, I'm Renata.🚀</h1>
 
 <h1 align="center"> “ É o único trabalho que me vem à mente no qual posso ser ao mesmo tempo engenheiro e artista. 
 Existe um incrível e rigoroso elemento técnico em sua execução, que é algo que me agrada porque é preciso ter um raciocínio muito preciso. 
