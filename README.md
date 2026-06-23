@@ -30,7 +30,7 @@ Por outro lado, apresenta um lado criativo no qual os limites da imaginação s�
 
 Sou **Renata Félix Trajano**, Sou Full Stack em Dados & Analytics. Estudante de Ciência da Computação e e pós graduada em Análise de Dados na **Cesar School**. 
 
-*Life long learning*
+*Life Long learning*
 ________________________________________
 
 Resumo Profissional
