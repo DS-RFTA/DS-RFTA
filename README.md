@@ -123,7 +123,7 @@ ________________________________________
 <div style="display: inline_block">
 <img align="center" alt="Python" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/Python-logo-notext.svg.png?raw=true"> 
 <img align="center" alt="SQL" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/logo.png?raw=true">
-<img align="center" alt="SQL" height="40" width="40" src="https://github.com/user-attachments/assets/47e60609-3804-42e4-8ad7-be2d704a9b8f" />
+<img align="center" alt="JavaScript-logo" height="40" width="40"  src="https://github.com/user-attachments/assets/cd8267ad-7405-44af-bf56-5b025c4d7ee1" />
 
 
 
@@ -133,7 +133,13 @@ ________________________________________
 <div style="display: inline_block">
 <img align="center" alt="git" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  /> </a>
 <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
-<img align="center" alt="Visual_Studio_Code_1 35_icon svg" width="40" height="40" src="https://github.com/user-attachments/assets/402470aa-b679-4b2b-b5ff-d9808bb6d6e7" />
+<img align="center" height="40"width="40" alt="code-stable" src="https://github.com/user-attachments/assets/d96f320b-4dd4-494e-a78d-4d69bfc40216" />
+
+
+
+
+
+
   
 </div>
 <br>
