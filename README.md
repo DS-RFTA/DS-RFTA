@@ -1,5 +1,6 @@
 
-![alt text](image.png)
+<img width="1584" height="396" alt="Foto de Fundo para LinkedIn Corretora de Imóveis Corporativo Azul (1)" src="https://github.com/user-attachments/assets/6cf5c777-16c6-4dd9-b4cb-ba79896ee7b7" />
+
 
 
 <h1 align="center"> Hello World, I'm Renata. Bem-vindo(a), 🚀</h1>
