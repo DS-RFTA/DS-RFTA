@@ -6,7 +6,8 @@
 <h1 align="center"> “ É o único trabalho que me vem à mente no qual posso ser ao mesmo tempo engenheiro e artista. 
 Existe um incrível e rigoroso elemento técnico em sua execução, que é algo que me agrada porque é preciso ter um raciocínio muito preciso. 
 Por outro lado, apresenta um lado criativo no qual os limites da imaginação são a única restrição.” 
-– Andy Hertzfeld  </h1>
+– Andy Hertzfeld 
+ </h1>
 
 
 <p align="center">
