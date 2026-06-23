@@ -1,7 +1,10 @@
 <img width="1584" height="396" alt="Foto de Fundo para LinkedIn Corretora de Imóveis Corporativo Azul (1)" src="https://github.com/user-attachments/assets/d0930ef0-a26f-4a01-bc40-45432c575bcf" />
 
 
-<h1 align="center"> Hello World, I'm Renata. Bem-vindo(a), 🚀</h1>
+<h1 align="center">  Bem-vindo(a), 
+Hello World!!
+I'm Renata.🚀
+</h1>
 
 <h1 align="center"> “ É o único trabalho que me vem à mente no qual posso ser ao mesmo tempo engenheiro e artista. 
 Existe um incrível e rigoroso elemento técnico em sua execução, que é algo que me agrada porque é preciso ter um raciocínio muito preciso. 
@@ -121,7 +124,7 @@ ________________________________________
 <div style="display: inline_block">
 <img align="center" alt="Python" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/Python-logo-notext.svg.png?raw=true"> 
 <img align="center" alt="SQL" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/logo.png?raw=true">
-<img align="center" alt="SQL" height="40" width="40" src="https://github.com/user-attachments/assets/47e60609-3804-42e4-8ad7-be2d704a9b8f" />
+<img align="center" alt="JavaScript-logo" height="40" width="40"  src="https://github.com/user-attachments/assets/cd8267ad-7405-44af-bf56-5b025c4d7ee1" />
 
 
 
@@ -131,7 +134,13 @@ ________________________________________
 <div style="display: inline_block">
 <img align="center" alt="git" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  /> </a>
 <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
-<img align="center" alt="Visual_Studio_Code_1 35_icon svg" width="40" height="40" src="https://github.com/user-attachments/assets/402470aa-b679-4b2b-b5ff-d9808bb6d6e7" />
+<img align="center" height="40"width="40" alt="code-stable" src="https://github.com/user-attachments/assets/d96f320b-4dd4-494e-a78d-4d69bfc40216" />
+
+
+
+
+
+
   
 </div>
 <br>
