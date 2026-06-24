@@ -1,9 +1,7 @@
 <img width="1584" height="396" alt="Foto de Fundo para LinkedIn Corretora de Imóveis Corporativo Azul (1)" src="https://github.com/user-attachments/assets/d0930ef0-a26f-4a01-bc40-45432c575bcf" />
 
 
-<h1 align="center">  Bem-vindo(a), >
-Hello World!!>
-I'm Renata.🚀
+<h1 align="center">  Hello World!!🚀
 </h1>
 
 ### “ É o único trabalho que me vem à mente no qual posso ser ao mesmo tempo engenheiro e artista. Existe um incrível e rigoroso elemento técnico em sua execução, que é algo que me agrada porque é preciso ter um raciocínio muito preciso. Por outro lado, apresenta um lado criativo no qual os limites da imaginação são a única restrição. ” – **Andy Hertzfeld** 
@@ -19,8 +17,8 @@ I'm Renata.🚀
 <p align="left">
 
 
-##   RENATA FÉLIX TRAJANO DE ARAÚJO 
-#### FULL STACK EM DADOS & ANALYTICS
+#   RENATA FÉLIX TRAJANO DE ARAÚJO 
+## FULL STACK EM DADOS & ANALYTICS
 
 ### Engenharia de dados | Cientista de Dados | Analista de Dados | Business Intelligence | Cibersegurança | Expert DIO
      
@@ -29,9 +27,9 @@ I'm Renata.🚀
 
 ##  Sobre Mim
 
-Sou **Renata Félix Trajano**, Sou Full Stack em Dados & Analytics. Estudante de Ciência da Computação e e pós graduada em Análise de Dados na **Cesar School**. 
+Sou Full Stack em Dados & Analytics. Estudante de Ciência da Computação pós graduada em Análise de Dados na **Cesar School**. 
 
-# *Life Long Learning*
+ *Life Long Learning*
 ________________________________________
 
 Resumo Profissional
