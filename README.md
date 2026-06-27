@@ -1,11 +1,9 @@
 <img width="1584" height="396" alt="Foto de Fundo para LinkedIn Corretora de Imóveis Corporativo Azul (1)" src="https://github.com/user-attachments/assets/d0930ef0-a26f-4a01-bc40-45432c575bcf" />
 
 
-<h1 align="center">  Hello World!!🚀 
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=22&center=true&vCenter=true&width=700&lines=Hi,+I'm+Renata+Félix+Trajano+👋;Computing+Science+Student+at+FMU;MBA+Data+Analysis+and+IA+CESAR+School;FullStack+Data+%26+Analytics;From+Recife,+PE+—+Brazil;What+I+don't+know,+give+me+a+few+days.)](https://github.com/DS-RFTA)
+<h1 align="center">  Hello World!!🚀 </h1>
 
-</h1>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=22&center=true&vCenter=true&width=700&lines=Hi,+I'm+Renata+Félix+Trajano+👋;Computing+Science+Student+at+FMU;MBA+Data+Analysis+and+IA+CESAR+School;FullStack+Data+%26+Analytics;From+Recife,+PE+—+Brazil;What+I+don't+know,+give+me+a+few+days.)](https://github.com/DS-RFTA)
 
 ### “ É o único trabalho que me vem à mente no qual posso ser ao mesmo tempo engenheiro e artista. Existe um incrível e rigoroso elemento técnico em sua execução, que é algo que me agrada porque é preciso ter um raciocínio muito preciso. Por outro lado, apresenta um lado criativo no qual os limites da imaginação são a única restrição. ” – **Andy Hertzfeld** 
 
@@ -41,7 +39,7 @@ Profissional de Dados e Analytics atuando no ecossistema do Grupo Boticário (Fr
 
 ________________________________________
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=22&center=true&vCenter=true&width=700&lines=Hi,+I'm+Renata+Félix+Trajano+👋;Computing+Science+Student+at+FMU;MBA+Data+Analysis+and+IA+CESAR+School;FullStack+Data+%26+Analytics;From+Recife,+PE+—+Brazil;What+I+don't+know,+give+me+a+few+days.)](https://github.com/DS-RFTA)
+
 ___
  
 <div
