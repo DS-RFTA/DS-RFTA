@@ -2,7 +2,7 @@
 
 
 <h1 align="center">  Hello World!!🚀 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=22&center=true&vCenter=true&width=700&lines=Hi,+I'm+Renata+Félix+Trajano+👋;Computing+Science+Student+at+FMU;MBA+Data+Analysis+and+IA+CESAR+School;FullStack+Data+%26+Analytics;From+Recife,+PE+—+Brazil;What+I+don't+know,+give+me+a+few+days.)](https://github.com/DS-RFTA)
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=22&center=true&vCenter=true&width=700&lines=Hi,+I'm+Renata+Félix+Trajano+👋;Computing+Science+Student+at+FMU;MBA+Data+Analysis+and+IA+CESAR+School;FullStack+Data+%26+Analytics;From+Recife,+PE+—+Brazil;What+I+don't+know,+give+me+a+few+days.)](https://github.com/DS-RFTA)
 
 </h1>
 
