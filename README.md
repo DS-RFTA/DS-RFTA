@@ -77,12 +77,8 @@ ________________________________________
 #### Graduação em Ciência da Computação
 Centro Universitário FMU | FIAM-FAAM| Em andamento
 
-O curso de bacharelado em Ciência da Computação da FMU forma profissionais capacitados para projetar, desenvolver e gerenciar soluções tecnológicas inovadoras. Com uma matriz curricular moderna e totalmente alinhada às demandas do mercado de trabalho, o programa abrange desde os fundamentos matemáticos e lógicos até as tecnologias mais avançadas da atualidade. Os alunos mergulham em disciplinas essenciais, como engenharia de software, inteligência artificial, ciência de dados, cibersegurança, infraestrutura e desenvolvimento web e mobile. O egresso sai preparado para atuar como arquiteto de software, desenvolvedor, cientista de dados ou líder de TI, tornando-se um protagonista na era da transformação digital.
-
 #### Pós-graduação em Análise de Dados e Inteligência Artificial (IA Generativa e LLMs).
 CESAR SCHOOL | Concluído
-
-Disciplinas relevantes: Visão de negócios com dados, chatgpt na prática, análise de dados, linguagens de consulta, análise prática com planilhas, storytelling, design thinking e agilidade com dados, dataviz: ferramentas para visualização de dados, modelos e aplicações em machine learning, big data, ia generativa e grandes modelos de linguagem, cases práticos de ciências de dados aplicada aos negócios, governança, legislação e ética e tópicos contemporâneos.
 
 ###  Cursos Online
 
