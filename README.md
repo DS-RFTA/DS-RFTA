@@ -35,7 +35,11 @@ ________________________________________
 
 Resumo Profissional
 
-Profissional de Dados e Analytics atuando no ecossistema do Grupo Boticário (Franquia Gomes Sobral), com forte experiência em transformar dados em insights estratégicos e resultados para o negócio. Especialista na criação de racionais e regras de negócio para novos indicadores, desenvolvimento e manutenção de dashboards gerenciais (Power BI, Looker Studio e Tableau), e manipulação de bases utilizando SQL e Python. Experiência prática na validação e ingestão de dados, bem como na aplicação de metodologias de análise com sólida base em lógica de programação e estatística descritiva. Atuação autônoma em ambientes movidos por inovação, impulsionando a cultura data-driven ao fornecer suporte técnico e treinamento aos usuários finais. Inquieta e focada em soluções, possuo conhecimentos avançados no funcionamento e implementação de Inteligência Artificial (IA), aliados a uma comunicação clara, direta e objetiva.
+Profissional de Dados e Analytics com experiência em Business Intelligence, Planejamento de Demanda, Supply Chain Analytics e análise estratégica de negócios.
+Atuei na franquia do Grupo Boticário (Gomes Sobral), desenvolvendo soluções analíticas para apoiar decisões de compras, abastecimento, gestão de estoques e planejamento de demanda. Tenho experiência na construção de dashboards executivos, desenvolvimento de indicadores estratégicos, automação de processos, modelagem de dados, SQL e Python.
+Possuo sólida capacidade analítica para transformar dados em informações acionáveis, aliando visão de negócio, estatística e storytelling para apoiar decisões executivas.
+Atualmente estou disponível para novos desafios.
+
 
 ________________________________________
 
@@ -71,12 +75,12 @@ ________________________________________
 ## Formação Acadêmica
 
 #### Graduação em Ciência da Computação
-Centro Universitário FMU | FIAM-FAAM| 2026
+Centro Universitário FMU | FIAM-FAAM| Em andamento
 
 O curso de bacharelado em Ciência da Computação da FMU forma profissionais capacitados para projetar, desenvolver e gerenciar soluções tecnológicas inovadoras. Com uma matriz curricular moderna e totalmente alinhada às demandas do mercado de trabalho, o programa abrange desde os fundamentos matemáticos e lógicos até as tecnologias mais avançadas da atualidade. Os alunos mergulham em disciplinas essenciais, como engenharia de software, inteligência artificial, ciência de dados, cibersegurança, infraestrutura e desenvolvimento web e mobile. O egresso sai preparado para atuar como arquiteto de software, desenvolvedor, cientista de dados ou líder de TI, tornando-se um protagonista na era da transformação digital.
 
 #### Pós-graduação em Análise de Dados e Inteligência Artificial (IA Generativa e LLMs).
-CESAR SCHOOL | 2025
+CESAR SCHOOL | Concluído
 
 Disciplinas relevantes: Visão de negócios com dados, chatgpt na prática, análise de dados, linguagens de consulta, análise prática com planilhas, storytelling, design thinking e agilidade com dados, dataviz: ferramentas para visualização de dados, modelos e aplicações em machine learning, big data, ia generativa e grandes modelos de linguagem, cases práticos de ciências de dados aplicada aos negócios, governança, legislação e ética e tópicos contemporâneos.
 
@@ -226,7 +230,7 @@ Estou sempre aberta a novas oportunidades e parcerias. Entre em contato para dis
 
 <br>
 
-  <sub><i>Última atualização: Junho de 2026</i></sub>
+  <sub><i>Última atualização: Julho de 2026</i></sub>
 </div>
 
 
