@@ -117,14 +117,16 @@ ________________________________________
 
 # 🛠️ Stack Tecnológica
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## Linguagens:
 
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
+
+
+
 <div style="display: inline_block">
-<img align="center" alt="Python" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/Python-logo-notext.svg.png?raw=true"> 
 <img align="center" alt="SQL" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/logo.png?raw=true">
-<img align="center" alt="JavaScript-logo" height="40" width="40"  src="https://github.com/user-attachments/assets/cd8267ad-7405-44af-bf56-5b025c4d7ee1" />
+
 
 
 
