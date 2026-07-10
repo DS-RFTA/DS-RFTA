@@ -36,7 +36,9 @@ ________________________________________
 Resumo Profissional
 
 Profissional de Dados e Analytics com experiência em Business Intelligence, Planejamento de Demanda, Supply Chain Analytics e análise estratégica de negócios.
+
 Atuei na franquia do Grupo Boticário (Gomes Sobral), desenvolvendo soluções analíticas para apoiar decisões de compras, abastecimento, gestão de estoques e planejamento de demanda. Tenho experiência na construção de dashboards executivos, desenvolvimento de indicadores estratégicos, automação de processos, modelagem de dados, SQL e Python.
+
 Possuo sólida capacidade analítica para transformar dados em informações acionáveis, aliando visão de negócio, estatística e storytelling para apoiar decisões executivas.
 Atualmente estou disponível para novos desafios.
 
