@@ -44,6 +44,7 @@ Em constante evolução acadêmica e técnica.
 * Bootcamps DIO
 
  *Life Long Learning*
+ 
 ________________________________________
 
 Resumo Profissional
@@ -59,7 +60,6 @@ Atualmente estou disponível para novos desafios.
 ________________________________________
 
 
-___
  
 <div
  align="center">
