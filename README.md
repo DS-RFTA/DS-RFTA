@@ -1,5 +1,5 @@
-<img width="1584" height="396" alt="Foto de Fundo para LinkedIn Corretora de Imóveis Corporativo Azul (1)" src="https://github.com/user-attachments/assets/d0930ef0-a26f-4a01-bc40-45432c575bcf" />
 
+<img width="1584" height="396" alt="1" src="https://github.com/user-attachments/assets/98cd6207-8395-4851-b9a2-5c528c62a7d2" />
 
 <h1 align="center">  Hello World!!🚀 </h1>
 
@@ -15,25 +15,27 @@
 
 <hr />
 
+
 <p align="left">
 
+#  Sobre Mim
 
-#   RENATA FÉLIX TRAJANO DE ARAÚJO 
-## FULL STACK EM DADOS & ANALYTICS
+##   Renata Félix Trajano de Araújo
 
-### Engenharia de dados | Cientista de Dados | Analista de Dados | Business Intelligence | Cibersegurança | Expert DIO
-     
-### SQL | Python |  Git | GitHub | AWS | Azure | Cloud | Databricks | Power BI | Fabric
-### Dashboards | KPIs | automação de processos | Bancos de dados relacionais | Qualidade de dados | Governança de dados | Compliance | LGPD | Pipelines de dados | ETL | ELT
+## Backend Java | Ciência da Computação | Dados & IA | SQL | Python | Cloud (AWS • Azure) | Power BI
+### JAVA | JavaScript | CSS | HTML
+
+Atualmente Sou Estudante de Ciência da Computação e estou estudando Programação e se Especializando em JAVA
+
+Profissional em Trânsição de Carreira
 
 
-# Atulamente Estudando Programação e se Especializando em JAVA
+### Participando Atualmente em Programas, Imersão, Trilha e Preparatório.
 
-### JAVA | JAVA SCRIPT | CSS | HTML
+* Programa Start By Capgemini
+* Trilha Tech AI Builder By Alura
+* Preparatório Lighthouse
 
-##  Sobre Mim
-
-Sou Full Stack em Dados & Analytics. Estudante de Ciência da Computação pós graduada em Análise de Dados na **Cesar School**. 
 
  *Life Long Learning*
 ________________________________________
@@ -239,6 +241,7 @@ Estou sempre aberta a novas oportunidades e parcerias. Entre em contato para dis
 
   <sub><i>Última atualização: Julho de 2026</i></sub>
 </div>
+
 
 
 
