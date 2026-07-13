@@ -18,7 +18,11 @@
 
 <p align="left">
 
+
 #  Sobre Mim
+
+
+
 
 Estudante de Ciência da Computação em transição de carreira para a área de desenvolvimento de software, com foco atual na trilha Java Full Stack pelo programa Start by Capgemini.
 
