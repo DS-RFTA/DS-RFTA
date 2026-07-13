@@ -234,7 +234,7 @@ ________________________________________
 
 ## 🤝 Vamos Conversar?
 
-Estou sempre aberta a novas oportunidades e parcerias. Entre em contato para discutirmos como posso contribuir com seus projetos de dados.
+Estou sempre aberta a novas oportunidades e parcerias. Entre em contato para discutirmos como posso contribuir com seus projetos.
 
 
 <div align="center">
