@@ -26,6 +26,11 @@
 ### SQL | Python |  Git | GitHub | AWS | Azure | Cloud | Databricks | Power BI | Fabric
 ### Dashboards | KPIs | automação de processos | Bancos de dados relacionais | Qualidade de dados | Governança de dados | Compliance | LGPD | Pipelines de dados | ETL | ELT
 
+
+# Atulamente Estudando Programação e se Especializando em JAVA
+
+### JAVA | JAVA SCRIPT | CSS | HTML
+
 ##  Sobre Mim
 
 Sou Full Stack em Dados & Analytics. Estudante de Ciência da Computação pós graduada em Análise de Dados na **Cesar School**. 
