@@ -20,22 +20,28 @@
 
 #  Sobre Mim
 
-##   Renata Félix Trajano de Araújo
+Estudante de Ciência da Computação em transição de carreira para a área de desenvolvimento de software, com foco atual na trilha Java Full Stack pelo programa Start by Capgemini.
 
-## Backend Java | Ciência da Computação | Dados & IA | SQL | Python | Cloud (AWS • Azure) | Power BI
-### JAVA | JavaScript | CSS | HTML
-
-Atualmente Sou Estudante de Ciência da Computação e estou estudando Programação e se Especializando em JAVA
-
-Profissional em Trânsição de Carreira
+Minha trajetória profissional anterior em setores administrativos e de compras me conferiu uma visão estruturada de processos, que agora aplico na construção de soluções tecnológicas. Atualmente, estou aprofundando meus conhecimentos em Java, Angular, HTML/CSS e arquitetura de sistemas.
 
 
-### Participando Atualmente em Programas, Imersão, Trilha e Preparatório.
+Apaixonado por aprender e resolver problemas complexos através de código. Estou em busca de oportunidades como Desenvolvedor Estágios, Trainee ou Júnior, onde possa aplicar minha base técnica em Java e contribuir com times de alta performance.
+
+
+Tech Stack: Java, Angular, SQL, JavaScript, HTML, CSS.
+Em constante evolução acadêmica e técnica.
+
+
+
+## Backend Java | Ciência da Computação | Dados & IA | JAVA | JavaScript | CSS | HTML | SQL | Python | Cloud (AWS) | Power BI
+
+
+# Participando Atualmente em Programas, Imersão, Trilha, Preparatório e Bootcamps.
 
 * Programa Start By Capgemini
 * Trilha Tech AI Builder By Alura
 * Preparatório Lighthouse
-
+* Bootcamps DIO
 
  *Life Long Learning*
 ________________________________________
