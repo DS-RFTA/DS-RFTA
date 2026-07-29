@@ -65,8 +65,7 @@ ________________________________________
 
 
  
-<div
- align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/renataft-araujo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -83,10 +82,11 @@ ________________________________________
  </a>
   <a href="https://instagram.com/full_stack_data_analytics">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
- </a>
-<br>
+</p>
 
-</div>
+<hr />
+
+<p align="left">
 
 
 ________________________________________
