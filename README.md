@@ -63,7 +63,11 @@ Atualmente estou disponível para novos desafios.
 
 ________________________________________
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
  
 <p align="center">
   <!-- LinkedIn -->
@@ -78,7 +82,7 @@ ________________________________________
 
   <!-- Portfólio (React) -->
   <a href="https://sites.google.com/view/rfta-data" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" alt="Portfólio" />
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Portfólio" />
   </a>
 
   <!-- WhatsApp -->
