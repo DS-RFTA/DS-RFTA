@@ -65,37 +65,9 @@ ________________________________________
 
 
  
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/renataft-araujo/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="mailto:rfta@cesar.school" target="_blank">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://sites.google.com/view/rfta-data" target="_blank">
-          <img src="https://img.shields.io/badge/Portfólio-161B22?style=for-the-badge&logo=react&logoColor=BC8CFF" alt="Portfolio"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://api.whatsapp.com/send?phone=5581998406136&text=E%20aí!%20Vim%20do%20teu%20Github.%20Bora%20bater%20um%20papo?" target="_blank">
-          <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://instagram.com/full_stack_data_analytics" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/renataft-araujo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:rfta@cesar.school" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> <a href="https://sites.google.com/view/rfta-data" target="_blank"><img src="https://img.shields.io/badge/Portfólio-161B22?style=for-the-badge&logo=react&logoColor=BC8CFF" alt="Portfolio"/></a> <a href="https://api.whatsapp.com/send?phone=5581998406136&text=E%20aí!%20Vim%20do%20teu%20Github.%20Bora%20bater%20um%20papo?" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a> <a href="https://instagram.com/full_stack_data_analytics" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 
 
 
