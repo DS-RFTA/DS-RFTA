@@ -66,8 +66,29 @@ ________________________________________
 
  
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin,gmail,react,whatsapp,instagram" />
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/renataft-araujo" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:rfta@cesar.school">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+
+  <!-- Portfólio (React) -->
+  <a href="https://sites.google.com/view/rfta-data" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" alt="Portfólio" />
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://api.whatsapp.com/send?phone=5581998406136" target="_blank">
+    <img src="https://skillicons.dev/icons?i=whatsapp" alt="WhatsApp" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/full_stack_data_analytics" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 </p>
 
