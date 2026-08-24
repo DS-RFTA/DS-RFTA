@@ -23,21 +23,18 @@
 
 
 
-
-Estudante de Ciência da Computação em transição de carreira para a área de desenvolvimento de software, com foco atual na trilha Java Full Stack pelo programa Start by Capgemini.
-
 Minha trajetória profissional anterior em setores administrativos e de compras me conferiu uma visão estruturada de processos, que agora aplico na construção de soluções tecnológicas. Atualmente, estou aprofundando meus conhecimentos em Java, Angular, HTML/CSS e arquitetura de sistemas.
 
 
 Apaixonado por aprender e resolver problemas complexos através de código. Estou em busca de oportunidades como Desenvolvedor Estágios, Trainee ou Júnior, onde possa aplicar minha base técnica em Java e contribuir com times de alta performance.
 
 
-Tech Stack: Java, Angular, SQL, JavaScript, HTML, CSS.
+Tech Stack: Java, Python, C, Angular, SQL, JavaScript, HTML, CSS.
 Em constante evolução acadêmica e técnica.
 
 
 
-## Backend Java | Ciência da Computação | Dados & IA | JAVA | JavaScript | CSS | HTML | SQL | Python | Cloud (AWS) | Power BI
+##  Ciência da Computação | Dados & IA | JAVA | C | JavaScript | CSS | HTML | SQL | Python | Cloud (AWS) | Power BI
 
 
 # Participando Atualmente em Programas, Imersão, Trilha, Preparatório e Bootcamps.
