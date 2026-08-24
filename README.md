@@ -113,7 +113,7 @@ ________________________________________
 
 ## Linguagens:
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,js,html,css)](https://skillicons.dev)
 
 
 
