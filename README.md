@@ -34,6 +34,7 @@ Em constante evolução acadêmica e técnica.
 
 
 
+
 ##  Ciência da Computação | Dados & IA | JAVA | C | JavaScript | CSS | HTML | SQL | Python | Cloud (AWS) | Power BI
 
 
