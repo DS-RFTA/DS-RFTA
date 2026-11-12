@@ -23,19 +23,19 @@
 
 
 
-Minha trajetória profissional anterior em setores administrativos e de compras me conferiu uma visão estruturada de processos, que agora aplico na construção de soluções tecnológicas. Atualmente, estou aprofundando meus conhecimentos em Java, Angular, HTML/CSS e arquitetura de sistemas.
+Minha trajetória profissional anterior em setores administrativos e de compras me conferiu uma visão estruturada de processos me tornando uma Analista de Dados, que agora aplico na construção de soluções tecnológicas. Atualmente, estou aprofundando meus conhecimentos em Engenharia de Software,Arquitetura de Sistemas e DevOps, Linguagens em Java, Angular, HTML/CSS.
 
 
 Apaixonado por aprender e resolver problemas complexos através de código. Estou em busca de oportunidades como Desenvolvedor Estágios, Trainee ou Júnior, onde possa aplicar minha base técnica em Java e contribuir com times de alta performance.
 
 
-Tech Stack: Java, Python, C, Angular, SQL, JavaScript, HTML, CSS.
+Tech Stack: Java, Python, Angular, SQL, JavaScript, HTML, CSS.
 Em constante evolução acadêmica e técnica.
 
 
 
 
-##  Ciência da Computação | Dados & IA | JAVA | C | JavaScript | CSS | HTML | SQL | Python | Cloud (AWS) | Power BI
+##  Software Engineer | Backend Developer | Java & Python | SQL | Cloud & DevOps
 
 
 # Participando Atualmente em Programas, Imersão, Trilha, Preparatório e Bootcamps.
