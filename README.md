@@ -225,7 +225,7 @@ Estou sempre aberta a novas oportunidades e parcerias. Entre em contato para dis
 <br>
 
 
-  <sub><i>Última atualização: Julho de 2026</i></sub>
+  <sub><i>Última atualização: Novembro de 2026</i></sub>
 </div>
 
 
