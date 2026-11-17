@@ -187,14 +187,6 @@ ________________________________________
 
 ## 📊 GitHub Stats 
 
-![GitHub followers](https://img.shields.io/github/followers/DS-RFTA?label=Followers&style=flat) ![GitHub stars](https://img.shields.io/github/stars/DS-RFTA?label=Stars&style=flat)
-<div align="center">
-<img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DS-RFTA&show_icons=true&theme=tokyonight"/>
-  
-________________________________________
-  
-<img height="100em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DS-RFTA&layout=compact&theme=tokyonight"/>
-
 
 ________________________________________
 
