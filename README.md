@@ -185,16 +185,27 @@ ________________________________________
 
 ________________________________________
 
-## 📊 GitHub Stats 
+##  GitHub Stats 
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DS-RFTA&theme=solarizado" />
+
+________________________________________
+
+## Top languages used in repository card
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DS-RFTA&theme=solarizado" />
 
 
 ________________________________________
 
+## Productive time card
 
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DS-RFTA&bg_color=0D1117&color=8B949E&line=58A6FF&point=BC8CFF&area=true&hide_border=true" alt="Gráfico de Atividade da RENATA" />
-</div>
+
 
 
 ________________________________________
