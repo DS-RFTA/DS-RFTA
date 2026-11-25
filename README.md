@@ -21,12 +21,35 @@
 
 #  Sobre Mim
 
+### OBJETIVO PROFISSIONAL 
 
+### Desenvolvimento Java | Backend | Engenharia de Software  | DevOps 
 
-Minha trajetória profissional anterior em setores administrativos e de compras me conferiu uma visão estruturada de processos me tornando uma Analista de Dados, que agora aplico na construção de soluções tecnológicas. Atualmente, estou aprofundando meus conhecimentos em Engenharia de Software,Arquitetura de Sistemas e DevOps, Linguagens em Java, Angular, HTML/CSS.
+## RESUMO PROFISSIONAL 
 
+Profissional de Tecnologia com formação em Ciência da Computação em andamento e pós-graduação concluída em 
+Análise de Dados e Inteligência Artificial pelo CESAR School. 
+Conhecimentos em Java, Python, SQL, Programação Orientada a Objetos, desenvolvimento de aplicações e 
+integração com bancos de dados relacionais. Experiência na análise de problemas, estruturação de soluções 
+tecnológicas, otimização de processos e desenvolvimento de soluções orientadas a requisitos de negócio. 
+Desenvolvimento de projetos práticos com foco em Engenharia de Software, aplicações Backend, arquitetura de 
+sistemas, APIs, persistência de dados, qualidade de código e testes automatizados. 
+Formação complementar em DevOps e metodologias ágeis, com conhecimentos relacionados à automação, 
+organização do desenvolvimento e ciclo de vida de aplicações. Perfil analítico, organizado e orientado à resolução de 
+problemas e à qualidade de software. 
 
-Apaixonado por aprender e resolver problemas complexos através de código. Estou em busca de oportunidades como Desenvolvedor Estágios, Trainee ou Júnior, onde possa aplicar minha base técnica em Java e contribuir com times de alta performance.
+## COMPETÊNCIAS TÉCNICAS 
+
+Programação e Desenvolvimento: Java, Python, SQL, Programação Orientada a Objetos (POO), estruturas de 
+dados e algoritmos. 
+Frameworks e APIs: Spring Boot, APIs REST, Web Services e integração de sistemas. 
+Testes e Qualidade: JUnit 5, Mockito, testes unitários, testes de integração, cenários de teste, depuração e 
+correção de bugs. 
+Banco de Dados: PostgreSQL, SQLite, SQL, modelagem relacional e consultas. 
+Engenharia de Software: Design Patterns, princípios SOLID, arquitetura em camadas, Gradle, Git, GitHub, 
+SVN, Javadoc e Swagger/OpenAPI. 
+Metodologias e DevOps: Scrum, Kanban, metodologias ágeis, fundamentos de DevOps e automação do ciclo de 
+desenvolvimento.
 
 
 Tech Stack: Java, Python, Angular, SQL, JavaScript, HTML, CSS.
@@ -35,28 +58,47 @@ Em constante evolução acadêmica e técnica.
 
 
 
-##  Software Engineer | Backend Developer | Java & Python | SQL | Cloud & DevOps
-
-
 # Participando Atualmente em Programas, Imersão, Trilha, Preparatório e Bootcamps.
 
 * Programa Start By Capgemini
-* Trilha Tech AI Builder By Alura
-* Preparatório Lighthouse
 * Bootcamps DIO
 
  *Life Long Learning*
  
 ________________________________________
 
-Resumo Profissional
+## PROJETOS DE DESENVOLVIMENTO DE SOFTWARE 
+### Link: https://github.com/DS-RFTA/Java-Backend-Portfolio.git 
 
-Profissional de Dados e Analytics com experiência em Business Intelligence, Planejamento de Demanda, Supply Chain Analytics e análise estratégica de negócios.
+1. FinCore – Core Banking System 
+Java, Spring Boot, PostgreSQL, Gradle, JUnit e Mockito. 
+Sistema Backend para gerenciamento de clientes, contas e operações financeiras, incluindo transferências, 
+validações de regras de negócio, persistência de dados, APIs REST e testes automatizados. 
 
-Atuei na franquia do Grupo Boticário (Gomes Sobral), desenvolvendo soluções analíticas para apoiar decisões de compras, abastecimento, gestão de estoques e planejamento de demanda. Tenho experiência na construção de dashboards executivos, desenvolvimento de indicadores estratégicos, automação de processos, modelagem de dados, SQL e Python.
+2. PayFlow – Processamento de Pagamentos 
+Java, Spring Boot, PostgreSQL, REST e JUnit. 
+Aplicação para processamento de pagamentos, controle de transações, gerenciamento de estados, prevenção de 
+duplicidade por idempotência e tratamento de falhas. 
 
-Possuo sólida capacidade analítica para transformar dados em informações acionáveis, aliando visão de negócio, estatística e storytelling para apoiar decisões executivas.
-Atualmente estou disponível para novos desafios.
+3. FraudShield – Detecção de Fraudes 
+Java, Spring Boot, SQL e Python. 
+Sistema para análise de transações financeiras, aplicação de regras de risco, identificação de comportamentos 
+suspeitos e integração de componentes de processamento e análise. 
+
+4. ClientCore – Gestão de Clientes e Onboarding 
+Java, Spring Boot, PostgreSQL, REST, SOAP e Swagger. 
+Aplicação para gerenciamento de clientes, validação de cadastros, persistência de informações e integração entre 
+sistemas por Web Services. 
+
+5. FinTech Microservices – Arquitetura Distribuída 
+Java, Spring Boot, Docker, APIs REST e mensageria. 
+Projeto de arquitetura com serviços independentes, integração entre componentes, separação de responsabilidades 
+e estratégias de resiliência. 
+
+6. QualityCore – Automação e Qualidade de Software 
+Java, JUnit 5, Mockito, Gradle e Swagger. 
+Projeto voltado à qualidade de aplicações Java, com testes unitários, simulação de dependências, cenários de 
+validação, tratamento de exceções e documentação técnica.
 
 
 ________________________________________
@@ -68,25 +110,25 @@ ________________________________________
 
 ## Formação Acadêmica
 
-#### Graduação em Ciência da Computação
+#### Graduação em Ciência da Computação | Segunda Graduação
 Centro Universitário FMU | FIAM-FAAM| Em andamento
 
 #### Pós-graduação em Análise de Dados e Inteligência Artificial (IA Generativa e LLMs).
 CESAR SCHOOL | Concluído
 
-###  Cursos Online
+## FORMAÇÃO COMPLEMENTAR
 
-- EBAC - ESCOLA BRITÂNICA DE ARTES CRIATIVAS E TECNOLOGIA CIENTISTA DE DADOS
-- Data Science · (2026 - Em Andamento)
-- Data Analytics · (2025 - Concluído)
+Java – Itaú + DIO: 45 horas. Orientação a objetos, Spring Boot, aplicações e integração com APIs.
 
+Bootcamp DevOps 360º: Da Linha de Comando à Automação.
 
-### Certificações
+DIO Campus Expert – Turma 16: desenvolvimento profissional e participação em comunidade tecnológica.
 
-- Profissão Cientista de Dados - EBAC, 2026
-- Python - CESAR E UFRPE, 2025 
-- SQL para Análise de Dados- EBAC, 2024
-- Power BI – CONQUER, 2023
+Oracle + Alura Latam ONE: formação em Inteligência Artificial para Tech Builder.
+
+Formação em Soft Skills: desenvolvimento de competências comportamentais e interpessoais, incluindo comunicação, pensamento crítico, tomada de decisão, liderança, gestão do tempo, trabalho em equipe, inovação, ética e relacionamento interpessoal.
+
+Metodologias Ágeis: conhecimentos em Scrum, Kanban e práticas de organização e melhoria contínua.
 
 ### Competências Complementares
 
@@ -97,11 +139,12 @@ CESAR SCHOOL | Concluído
 - Aprendizado Contínuo: dedicação ao estudo de novas tecnologias e técnicas de ciência de dados
 - Storytelling com Dados: habilidade de criar narrativas convincentes baseadas em análises
 
+
 ### Idiomas
 
-- Português: Nativo
-- Inglês: Intermediário – Conversação, escrita, leitura de documentação técnica e artigos científicos.
-- Espanhol: Avançado – Conversação, escrita, leitura de documentação técnica e artigos científicos.
+- Português: Nativo.
+- Inglês: Avançado.
+- Espanhol: Avançado.
 
   
 
