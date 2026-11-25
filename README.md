@@ -110,7 +110,7 @@ ________________________________________
 
 ## Formação Acadêmica
 
-#### Graduação em Ciência da Computação | Segunda Graduação
+#### Graduação em Bacharelado em Ciência da Computação | Segunda Graduação
 Centro Universitário FMU | FIAM-FAAM| Em andamento
 
 #### Pós-graduação em Análise de Dados e Inteligência Artificial (IA Generativa e LLMs).
@@ -118,17 +118,12 @@ CESAR SCHOOL | Concluído
 
 ## FORMAÇÃO COMPLEMENTAR
 
-Java – Itaú + DIO: 45 horas. Orientação a objetos, Spring Boot, aplicações e integração com APIs.
+Bootcamp DevOps 360º: Da Linha de Comando à Automação | Concluído.
+Formação Java – Itaú e DIO | 45 horas.
+DIO Campus Expert  Turma 16.
+Oracle + Alura Latam ONE | AI for Tech Builder.
+Metodologias Ágeis: Scrum e Kanban | Rocketseat.
 
-Bootcamp DevOps 360º: Da Linha de Comando à Automação.
-
-DIO Campus Expert – Turma 16: desenvolvimento profissional e participação em comunidade tecnológica.
-
-Oracle + Alura Latam ONE: formação em Inteligência Artificial para Tech Builder.
-
-Formação em Soft Skills: desenvolvimento de competências comportamentais e interpessoais, incluindo comunicação, pensamento crítico, tomada de decisão, liderança, gestão do tempo, trabalho em equipe, inovação, ética e relacionamento interpessoal.
-
-Metodologias Ágeis: conhecimentos em Scrum, Kanban e práticas de organização e melhoria contínua.
 
 ### Competências Complementares
 
